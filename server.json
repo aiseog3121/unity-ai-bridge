@@ -1,0 +1,12 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.butterlatte-zhang/unity-ai-bridge",
+  "description": "Remote-control Unity Editor from any AI IDE via file-based IPC. 62 tools, zero dependencies.",
+  "title": "Unity AI Bridge",
+  "websiteUrl": "https://github.com/butterlatte-zhang/unity-ai-bridge/blob/main/docs/SETUP.md",
+  "repository": {
+    "url": "https://github.com/butterlatte-zhang/unity-ai-bridge",
+    "source": "github"
+  },
+  "version": "1.0.0"
+}
