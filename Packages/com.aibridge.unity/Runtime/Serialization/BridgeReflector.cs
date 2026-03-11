@@ -37,6 +37,7 @@ namespace UnityAiBridge.Serialization
             return new JsonSerializerOptions
             {
                 WriteIndented = false,
+                IncludeFields = true,
                 PropertyNamingPolicy = JsonNamingPolicy.CamelCase,
                 DefaultIgnoreCondition = JsonIgnoreCondition.WhenWritingNull,
                 NumberHandling = JsonNumberHandling.AllowNamedFloatingPointLiterals,
