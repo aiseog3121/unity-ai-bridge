@@ -13,6 +13,10 @@
 
 ---
 
+https://github.com/user-attachments/assets/4e8b3f85-b209-406f-a96e-f8b8eddc9160
+
+
+
 ## Why Unity AI Bridge?
 
 Most AI coding assistants can read and write files, but they are **blind to the Unity Editor** — they can't inspect your scene, tweak materials, run tests, or profile performance. Unity AI Bridge gives AI full editor access.
