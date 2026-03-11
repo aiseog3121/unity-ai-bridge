@@ -36,3 +36,20 @@ The following Roslyn compiler DLLs are bundled in `Packages/com.aibridge.unity/E
 - `System.Reflection.Metadata.dll`
 
 Full license text: https://github.com/dotnet/roslyn/blob/main/License.txt
+
+---
+
+## System.Text.Json and Dependencies
+
+- **Repository**: https://github.com/dotnet/runtime
+- **License**: MIT License
+- **Copyright**: Copyright (c) .NET Foundation and Contributors
+
+The following .NET runtime DLLs are bundled in `Packages/com.aibridge.unity/Editor/Plugins/` to provide JSON serialization on Unity 2022.3+:
+
+- `System.Text.Json.dll` (7.0.3)
+- `System.Text.Encodings.Web.dll` (7.0.0)
+- `System.Runtime.CompilerServices.Unsafe.dll` (6.0.0)
+- `Microsoft.Bcl.AsyncInterfaces.dll` (7.0.0)
+
+Full license text: https://github.com/dotnet/runtime/blob/main/LICENSE.TXT
